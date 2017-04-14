@@ -15,10 +15,10 @@
             <div class="navbar-collapse collapse navbar-right" id="navbar-main">
                 <ul class="nav navbar-nav">
                     <li
-                      {{ if eq .URL  "/" }}
+                      {{ if eq .URL  "/idea/" }}
                       class="active"
                       {{ end }}
-                      ><a href="/">ホーム</a></li>
+                      ><a href="/idea/">本会の理念</a></li>
 
                     <li
                       {{ if eq .URL "/requirements/"}}
@@ -30,7 +30,7 @@
                       {{ if eq .URL "/faq/"}}
                       class="active"
                       {{ end }}
-                      ><a href="/faq/">よくある質問</a></li>
+                      ><a href="/faq/">FAQ</a></li>
 
                     <li
                       {{ if eq .URL "/circles/"}}
