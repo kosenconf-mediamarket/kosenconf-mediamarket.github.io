@@ -1,12 +1,48 @@
 +++
-Title = "サークル申込"
+Title = "サークル一覧"
 +++
 
-### この先は参加申請フォームへ進みます
-
-* 参加申請された内容は、プライバシーポリシーに従って取り扱います。
-* 参加申請が完了しますと、受信確認メールを連絡先のメールアドレスへ自動送信いたします。  
-もし、受信確認メールが届かない場合はメールの受信拒否設定や、迷惑メールとして誤って処理されていないかの確認をした上で、お問い合わせフォームよりお問い合わせをお願いします。
-* サークルカットのフォーマットは[こちら](https://drive.google.com/open?id=0B5Ex3Ivj8-J4X2JuYVBKaDQtWUU)からダウンロードをお願いします。
-
-<center><input type="button" class="btn btn-primary btn-lg" onclick="window.open('https://goo.gl/forms/V2dJS4WePqUOe8pB2')" value="参加申請フォームへ"></center>
+<table class="table">
+  <thead>
+    <th>サークル場所</th>
+    <th>サークル名</th>
+    <th>サークルカット</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>あ-4</td>
+      <td>HIGH SPEED SYOWA STREET</td>
+      <td><img src="/img/circles/circle_a4.png" height="200"></td>
+    </tr>
+    <tr>
+      <td>あ-5</td>
+      <td>丈屋工房</td>
+      <td><img src="/img/circles/circle_a5.png" height="200"></td>
+    </tr>
+    <tr>
+      <td>あ-6</td>
+      <td>あおみつ工房</td>
+      <td><img src="/img/circles/circle_a6.png" height="200"></td>
+    </tr>
+    <tr>
+      <td>あ-7</td>
+      <td>Flying Gears</td>
+      <td><img src="/img/circles/circle_a7.png" height="200"></td>
+    </tr>
+    <tr>
+      <td>あ-8</td>
+      <td>しょぼんブログ</td>
+      <td><img src="/img/circles/circle_a8.png" height="200"></td>
+    </tr>
+    <tr>
+      <td>あ-9</td>
+      <td>実家が漫湖の近く</td>
+      <td><img src="/img/circles/circle_a9.png" height="200"></td>
+    </tr>
+    <tr>
+      <td>あ-10</td>
+      <td>はにーばんち</td>
+      <td><img src="/img/circles/circle_a10.png" height="200"></td>
+    </tr>
+  </tbody>
+</table>
