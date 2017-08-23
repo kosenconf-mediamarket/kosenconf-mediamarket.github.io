@@ -39,7 +39,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h2>最新情報</h2>
-                {{ range $name, $page := first 3 (where .Site.Pages "Section" "news") }}
+                {{ range $name, $page := first 2 (where .Site.Pages "Section" "news") }}
                 {{ partial "headline.html" $page }}
                 {{ end }}
 
