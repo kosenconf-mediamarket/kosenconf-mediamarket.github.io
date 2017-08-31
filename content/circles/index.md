@@ -1,6 +1,8 @@
 +++
-Title = "サークル一覧"
+Title = "参加サークル"
 +++
+
+<a href="/img/map.jpg"><img src="/img/map.jpg" style="width:100%;height:auto;"></a>
 
 <table class="table">
   <thead>
